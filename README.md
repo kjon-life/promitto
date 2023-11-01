@@ -11,7 +11,6 @@ Next: Continuous Integration (CI) pipeline.
 
 ## Where we started
 Backend developer who has read The Rust Book, and wants to move beyond the knowledge available in the ecosystem.
-I'm a solutions consultant in startup to enterprise SaaS, a pre-sales manager, an avocational product manager, and git push
-I love conversations that lead to clarity of action, improved quality, and more joy.
+I'm a solutions consultant in startup to enterprise SaaS, a pre-sales manager, an avocational product manager, and I love conversations that lead to clarity of action, improved quality, and more joy.
 
 
